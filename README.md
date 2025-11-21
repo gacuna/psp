@@ -37,7 +37,7 @@ Para explorar cada módulo con máximo detalle, puedes acceder a los archivos co
 - [13_servicio_payins](./13_servicio_payins.md)
 - [14_servicio_payouts](./14_servicio_payouts.md)
 - [15_servicio_settlements](15_servicio_settlements.md)
-- [16_servicio_refunds](16_servicio_refunds.md)]
+- [16_servicio_refunds](16_servicio_refunds.md)
 - [17_ledger_contable](17_ledger_contable.md)
 - [18_fx_engine](18_fx_engine.md)
 - [19_fees_engine](19_fees_engine.md)
