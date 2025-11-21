@@ -21,7 +21,7 @@
 Para explorar cada módulo con máximo detalle, puedes acceder a los archivos correspondientes:
 
 ## 0. Introducción
-- [01_introduccion.md](01_introduccion.md)
+- [01_introduccion](01_introduccion.md)
 
 ## 1. Lógica de Negocio
 - [02 Pay-ins](02_payins.md)
@@ -34,15 +34,15 @@ Para explorar cada módulo con máximo detalle, puedes acceder a los archivos co
 - [09 Reglas de Negocio y Casos Especiales](09_reglas_negocio.md)
 
 ## 2. Servicios Técnicos
-- [13_servicio_payins.md](./13_servicio_payins.md)
-- [14_servicio_payouts.md](./14_servicio_payouts.md)
-- [15_servicio_settlements.md](15_servicio_settlements.md)
-- [16_servicio_refunds.md](16_servicio_refunds.md)]
-- [17_ledger_contable.md](17_ledger_contable.md)
-- [18_fx_engine.md](18_fx_engine.md)
-- [19_fees_engine.md](19_fees_engine.md)
-- [20_settlements_engine.md](20_settlements_engine.md)
-- [21_reporting_monitor.md](21_reporting_monitor.md)
-- [22_diagramas_flujo_completos.md](22_diagramas_flujo_completos.md)
+- [13_servicio_payins](./13_servicio_payins.md)
+- [14_servicio_payouts](./14_servicio_payouts.md)
+- [15_servicio_settlements](15_servicio_settlements.md)
+- [16_servicio_refunds](16_servicio_refunds.md)]
+- [17_ledger_contable](17_ledger_contable.md)
+- [18_fx_engine](18_fx_engine.md)
+- [19_fees_engine](19_fees_engine.md)
+- [20_settlements_engine](20_settlements_engine.md)
+- [21_reporting_monitor](21_reporting_monitor.md)
+- [22_diagramas_flujo_completos](22_diagramas_flujo_completos.md)
 
 > Nota: Cada archivo contiene ejemplos, flujos de dinero detallados, cálculo de fees, impuestos, FX y casos especiales, sirviendo como base para el desarrollo completo de la plataforma.
