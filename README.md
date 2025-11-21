@@ -20,7 +20,7 @@
 ## 3. Secciones detalladas
 Para explorar cada módulo con máximo detalle, puedes acceder a los archivos correspondientes:
 
-- [01 Introducción](01_introduccion)
+- [01 Introducción](01_introduccion.md)
 - [02 Pay-ins](02_payins.md)
 - [03 Payouts](03_payouts.md)
 - [04 Refunds y Chargebacks](04_refunds_chargebacks.md)
