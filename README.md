@@ -1,4 +1,4 @@
-# Sección 1: Lógica de Negocio (Business Logic)
+# Payment Service Provider
 
 ## 1. Introducción a la Lógica de Negocio
 - Propósito de la sección: mostrar cómo funciona la plataforma desde el punto de vista financiero y operativo.
@@ -20,7 +20,7 @@
 ## 3. Secciones detalladas
 Para explorar cada módulo con máximo detalle, puedes acceder a los archivos correspondientes:
 
-- [00 Introducción](00_introduccion.md)
+- [01 Introducción](01_introduccion)
 - [02 Pay-ins](02_payins.md)
 - [03 Payouts](03_payouts.md)
 - [04 Refunds y Chargebacks](04_refunds_chargebacks.md)
