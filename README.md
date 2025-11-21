@@ -1,4 +1,4 @@
-# Payment Service Provider
+# Índice Maestro de la Plataforma de Pagos
 
 ## 1. Introducción a la Lógica de Negocio
 - Propósito de la sección: mostrar cómo funciona la plataforma desde el punto de vista financiero y operativo.
@@ -20,7 +20,10 @@
 ## 3. Secciones detalladas
 Para explorar cada módulo con máximo detalle, puedes acceder a los archivos correspondientes:
 
-- [01 Introducción](01_introduccion.md)
+## 0. Introducción
+- [01_introduccion.md](./00_introduccion.md)
+
+## 1. Lógica de Negocio
 - [02 Pay-ins](02_payins.md)
 - [03 Payouts](03_payouts.md)
 - [04 Refunds y Chargebacks](04_refunds_chargebacks.md)
@@ -29,5 +32,17 @@ Para explorar cada módulo con máximo detalle, puedes acceder a los archivos co
 - [07 Cálculo de Fees y Comisiones](07_fees_comisiones.md)
 - [08 Impuestos y Compliance](08_impuestos_compliance.md)
 - [09 Reglas de Negocio y Casos Especiales](09_reglas_negocio.md)
+
+## 2. Servicios Técnicos
+- [13_servicio_payins.md](./14_servicio_payins.md)
+- [14_servicio_payouts.md](./15_servicio_payouts.md)
+- [15_servicio_settlements.md](15_servicio_settlements.md)
+- [16_servicio_refunds.md](16_servicio_refunds.md)]
+- [17_ledger_contable.md](17_ledger_contable.md)
+- [18_fx_engine.md](18_fx_engine.md)
+- [19_fees_engine.md](19_fees_engine.md)
+- [20_settlements_engine.md](20_settlements_engine.md)
+- [21_reporting_monitor.md](21_reporting_monitor.md)
+- [22_diagramas_flujo_completos.md](22_diagramas_flujo_completos.md)
 
 > Nota: Cada archivo contiene ejemplos, flujos de dinero detallados, cálculo de fees, impuestos, FX y casos especiales, sirviendo como base para el desarrollo completo de la plataforma.
