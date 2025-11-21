@@ -21,7 +21,7 @@
 Para explorar cada módulo con máximo detalle, puedes acceder a los archivos correspondientes:
 
 ## 0. Introducción
-- [01_introduccion.md](./00_introduccion.md)
+- [01_introduccion.md](01_introduccion.md)
 
 ## 1. Lógica de Negocio
 - [02 Pay-ins](02_payins.md)
@@ -34,8 +34,8 @@ Para explorar cada módulo con máximo detalle, puedes acceder a los archivos co
 - [09 Reglas de Negocio y Casos Especiales](09_reglas_negocio.md)
 
 ## 2. Servicios Técnicos
-- [13_servicio_payins.md](./14_servicio_payins.md)
-- [14_servicio_payouts.md](./15_servicio_payouts.md)
+- [13_servicio_payins.md](./13_servicio_payins.md)
+- [14_servicio_payouts.md](./14_servicio_payouts.md)
 - [15_servicio_settlements.md](15_servicio_settlements.md)
 - [16_servicio_refunds.md](16_servicio_refunds.md)]
 - [17_ledger_contable.md](17_ledger_contable.md)
