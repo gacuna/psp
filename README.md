@@ -44,5 +44,6 @@ Para explorar cada módulo con máximo detalle, puedes acceder a los archivos co
 - [20_settlements_engine](20_settlements_engine.md)
 - [21_reporting_monitor](21_reporting_monitor.md)
 - [22_diagramas_flujo_completos](22_diagramas_flujo_completos.md)
+- [23_mvp](23_mvp_roadmap.md)
 
 > Nota: Cada archivo contiene ejemplos, flujos de dinero detallados, cálculo de fees, impuestos, FX y casos especiales, sirviendo como base para el desarrollo completo de la plataforma.
